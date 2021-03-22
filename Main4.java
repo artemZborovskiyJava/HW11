@@ -2,7 +2,7 @@ package com.javahw;
 
 import java.util.Arrays;
 
-public class Main {
+public class Main4 {
 
     public static void main(String[] args) {
         /*

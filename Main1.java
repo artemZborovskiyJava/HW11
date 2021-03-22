@@ -2,7 +2,7 @@ package com.javahw;
 
 import java.util.Random;
 
-public class Main {
+public class Main1 {
 
     private static final Random random = new Random();
 
